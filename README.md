@@ -15,7 +15,7 @@ This project demonstrates fundamental front-end development skills, including se
 ---
 
 ## Features
-- Responsive design (mobile, tablet, desktop
+- Responsive design (mobile, tablet, desktop)
 - Clean and modern UI
 - Structured layout with multiple sections
 - User-friendly navigation
