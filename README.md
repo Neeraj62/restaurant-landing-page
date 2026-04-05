@@ -19,7 +19,7 @@ This project demonstrates fundamental front-end development skills, including se
 - Clean and modern UI
 - Structured layout with multiple sections
 - User-friendly navigation
-- Optimized performance
+- Optimized performances
 
 ---
 
