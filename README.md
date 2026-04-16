@@ -1,4 +1,4 @@
-# Restaurant Website
+# Restaurant Website  
 
 A responsive restaurant website built using HTML5 and CSS3. The project presents a clean and modern user interface with well-structured sections, providing a seamless browsing experience across all devices.
 
